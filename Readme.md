@@ -30,4 +30,4 @@ Aquí un error muy comun sería conectarse con el usuario **wordpress** y la con
 
 Vale, ahora si que vamos a configurar el archivo **PHP** para nuestro plugin
 
-
+Hemos hecho una fución, para crear una tabla, otra para insertar caracteres y otra para hacer la consulta y subtitución de caracteres
