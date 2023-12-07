@@ -23,3 +23,11 @@ Ahora vamos a crear un archivo **php** para nuestro plugin
 touch nombreArchivoPlugin.php
 ```
 Ahora vamos a editar el archivo **php** para nuestro plugin
+
+Pero primero deemos establecer la conexión con la base de datos
+
+Aquí un error muy comun sería conectarse con el usuario **wordpress** y la contraseña **wordpress** pero no es así, porque el usuario **wordpress** no tiene permisos para crear tablas en la base de datos, por lo tanto debemos conectarnos con el usuario **root** y la contraseña en este caso **somewordpress**
+
+Vale, ahora si que vamos a configurar el archivo **PHP** para nuestro plugin
+
+
